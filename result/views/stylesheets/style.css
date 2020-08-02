@@ -27,11 +27,11 @@ body {
 }
 
 #background-stats-1 {
-    background-color: #2196f3;
+    background-color: #cfd7ea;
 }
 
 #background-stats-2 {
-    background-color: #00cbca;
+    background-color: #f9ec2d;
 }
 
 #content-container {
@@ -97,12 +97,12 @@ body {
 }
 
 #choice .choice.verano {
-    color: #00cbca;
+    color: #f9ec2d;
     float: right;
 }
 
 #choice .choice.invierno {
-    color: #2196f3;
+    color: #cfd7ea;
     float: left;
 }
 
